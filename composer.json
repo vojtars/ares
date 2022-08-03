@@ -22,6 +22,7 @@
         "fabpot/goutte": "^2.0|^3.0|^4.0",
         "guzzlehttp/guzzle": "^6.2|^7.0"
     },
+    "minimum-stability": "dev",
     "require-dev": {
         "symplify/coding-standard": "^8.3",
         "phpunit/phpunit": "^8.5"
